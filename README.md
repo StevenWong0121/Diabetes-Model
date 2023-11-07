@@ -24,6 +24,6 @@ The model uses various features  as below to predict and track diabetes-related 
 
 git clone https://github.com/StevenWong0121/Diabetes-Model.git
 
-##Acknowledgment
+## Acknowledgment
 This dataset is provided on Kaggle.com by Akshay Dattatray Khare, click on the link below for more information:
 https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
