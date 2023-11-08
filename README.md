@@ -32,7 +32,7 @@ The model uses various features  as below to predict and track diabetes-related 
 
 git clone https://github.com/StevenWong0121/Diabetes-Model.git
 
----------------------OR---------------------
+OR
 
 Download the pkl files from model Directory and loaded into Jupyter Notebook for data prediction
 
