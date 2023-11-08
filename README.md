@@ -34,7 +34,7 @@ git clone https://github.com/StevenWong0121/Diabetes-Model.git
 
 OR
 
-Download the pkl files from model Directory and loaded into Jupyter Notebook for data prediction
+Download the pkl files from *models* Directory and loaded into Jupyter Notebook for data prediction
 
 ## Report Understading
 
