@@ -53,13 +53,19 @@ Classification Report:
     weighted avg   Weight Avg               Weight Avg      Weighted Avg          Total Instances
 
 Negative Precision = True Negatives / Total Actual Negatives
+
 Positive Presision = True Positives / Total Actual Positives 
 
+
 Specificty = True Negatives / Total predicted Negatives
+
 Sensitivity = True Positives / Total predicted Positives
 
+
 Negative F1 Score = (2 * Negative Precision * Specificity) / (Negative Precision + Specificity)
+
 Positive F1 Score = (2 * Positive Precision * Sensitivity) / (Positive Precision + Sensitivity)
+
 
 Accuracy = (True Positives + True Negatives) / Total Instances
 
