@@ -52,20 +52,16 @@ Classification Report:
     macro avg      Avg                      Avg             Avg                   Total instances
     weighted avg   Weight Avg               Weight Avg      Weighted Avg          Total Instances
 
-Negative Precision = True Negatives / Total Actual Negatives
-
-Positive Presision = True Positives / Total Actual Positives 
-
-
-Specificty = True Negatives / Total predicted Negatives
-
-Sensitivity = True Positives / Total predicted Positives
+Negative Precision = True Negatives / Total Actual Negatives<br>
+Positive Presision = True Positives / Total Actual Positives<br>
 
 
-Negative F1 Score = (2 * Negative Precision * Specificity) / (Negative Precision + Specificity)
+Specificty = True Negatives / Total predicted Negatives<br>
+Sensitivity = True Positives / Total predicted Positives<br>
 
-Positive F1 Score = (2 * Positive Precision * Sensitivity) / (Positive Precision + Sensitivity)
 
+Negative F1 Score = (2 * Negative Precision * Specificity) / (Negative Precision + Specificity)<br>
+Positive F1 Score = (2 * Positive Precision * Sensitivity) / (Positive Precision + Sensitivity)<br>
 
 Accuracy = (True Positives + True Negatives) / Total Instances
 
