@@ -18,11 +18,9 @@ The model uses various features  as below to predict and track diabetes-related 
 1. Pregnancies
 2. Gluclose level
 3. Blood Pressure
-4. Skin Thckness
-5. Insulin level
-6. BMI
-7. Diabetes Pedigree Function
-8. Age
+4. BMI
+5. Diabetes Pedigree Function
+6. Age
 
 ## Features
 
