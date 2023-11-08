@@ -38,9 +38,9 @@ git clone https://github.com/StevenWong0121/Diabetes-Model.git
 
 Confusion Matrix:
 
-                        Actual Pasitive            Actual Negative
-Predicted Positive      True Positive              False Positive
-Predicted Negative      False Negative             True Negative
+                            Actual Pasitive            Actual Negative
+    Predicted Positive      True Positive              False Positive
+    Predicted Negative      False Negative             True Negative
 
 Classification Report:
 
@@ -49,8 +49,8 @@ Classification Report:
            1      Positive Presicion        Sensitivity     Positive Score        Total Actual Positives
 
     accuracy                                                Accuracy              Total Instances
-   macro avg       Avg                      Avg             Avg                   Total instances
-weighted avg       Weight Avg               Weight Avg      Weighted Avg          Total Instances
+    macro avg      Avg                      Avg             Avg                   Total instances
+    weighted avg   Weight Avg               Weight Avg      Weighted Avg          Total Instances
 
 Negative Precision = True Negatives / Total Actual Negatives
 Positive Presision = True Positives / Total Actual Positives 
